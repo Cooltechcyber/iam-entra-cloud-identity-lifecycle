@@ -36,3 +36,21 @@ Finance group direct-member filter returned **no matching output**.
 - `18-entra-leaver-graph-group-verification.png`
 
 See [validation commands](../scripts/validation-commands.ps1).
+
+## Screenshot evidence
+
+**15-entra-leaver-account-disabled.png**
+
+![15 entra leaver account disabled](../screenshots/15-entra-leaver-account-disabled.png)
+
+**16-entra-leaver-finance-membership-removed.png**
+
+![16 entra leaver finance membership removed](../screenshots/16-entra-leaver-finance-membership-removed.png)
+
+**17-entra-leaver-graph-account-verification.png**
+
+![17 entra leaver graph account verification](../screenshots/17-entra-leaver-graph-account-verification.png)
+
+**18-entra-leaver-graph-group-verification.png**
+
+![18 entra leaver graph group verification](../screenshots/18-entra-leaver-graph-group-verification.png)
