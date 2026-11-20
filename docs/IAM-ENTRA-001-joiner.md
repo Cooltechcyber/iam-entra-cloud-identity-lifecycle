@@ -30,3 +30,21 @@ SG-IT-Cloud-Users
 - `07-entra-graph-group-verification.png`
 
 See [validation commands](../scripts/validation-commands.ps1) and [screenshot guide](../screenshots/README.md).
+
+## Screenshot evidence
+
+**04-entra-daniel-harris-created.png**
+
+![04 entra daniel harris created](../screenshots/04-entra-daniel-harris-created.png)
+
+**05-entra-daniel-it-group-membership.png**
+
+![05 entra daniel it group membership](../screenshots/05-entra-daniel-it-group-membership.png)
+
+**06-entra-graph-user-verification.png**
+
+![06 entra graph user verification](../screenshots/06-entra-graph-user-verification.png)
+
+**07-entra-graph-group-verification.png**
+
+![07 entra graph group verification](../screenshots/07-entra-graph-group-verification.png)
