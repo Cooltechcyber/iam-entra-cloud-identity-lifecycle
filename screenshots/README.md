@@ -1,6 +1,6 @@
 # Screenshot evidence inventory
 
-Upload **actual lab screenshots** here. Filenames below are planned evidence references; listing them does **not** mean the images have been uploaded.
+All **18 screenshot files have been uploaded and their paths verified**. Review the image content before sharing externally to ensure no secrets or unnecessary identifiers are visible.
 
 ## Tenant and baseline
 - `01-entra-tenant-overview.png`
@@ -29,3 +29,10 @@ Upload **actual lab screenshots** here. Filenames below are planned evidence ref
 - `18-entra-leaver-graph-group-verification.png`
 
 Before publishing, redact passwords, device codes, tokens, tenant IDs, and unnecessary personal identifiers. Only upload screenshots you actually captured. Screenshots may be uploaded via **Add file → Upload files** into this directory on the **main** branch.
+
+## Baseline preview
+![01 entra tenant overview](01-entra-tenant-overview.png)
+
+![02 entra existing user properties](02-entra-existing-user-properties.png)
+
+![03 entra amanda baseline groups](03-entra-amanda-baseline-groups.png)
