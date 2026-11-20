@@ -42,3 +42,33 @@ The previous IT group did not appear in the returned group list.
 - `14-entra-mover-graph-group-verification.png`
 
 See [validation commands](../scripts/validation-commands.ps1).
+
+## Screenshot evidence
+
+**08-entra-existing-security-groups.png**
+
+![08 entra existing security groups](../screenshots/08-entra-existing-security-groups.png)
+
+**09-entra-finance-group-before-transfer.png**
+
+![09 entra finance group before transfer](../screenshots/09-entra-finance-group-before-transfer.png)
+
+**10-entra-daniel-finance-properties.png**
+
+![10 entra daniel finance properties](../screenshots/10-entra-daniel-finance-properties.png)
+
+**11-entra-it-group-after-removal.png**
+
+![11 entra it group after removal](../screenshots/11-entra-it-group-after-removal.png)
+
+**12-entra-finance-group-after-addition.png**
+
+![12 entra finance group after addition](../screenshots/12-entra-finance-group-after-addition.png)
+
+**13-entra-mover-graph-user-verification.png**
+
+![13 entra mover graph user verification](../screenshots/13-entra-mover-graph-user-verification.png)
+
+**14-entra-mover-graph-group-verification.png**
+
+![14 entra mover graph group verification](../screenshots/14-entra-mover-graph-group-verification.png)
