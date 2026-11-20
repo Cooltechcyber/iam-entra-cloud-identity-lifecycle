@@ -38,3 +38,37 @@ MFA and Conditional Access testing, cloud role governance, and access reviews wh
 
 ---
 **Portfolio:** [Joiner–Mover–Leaver (on-prem AD)](https://github.com/Cooltechcyber/iam-joiner-mover-leaver) · [User Access Review (on-prem AD)](https://github.com/Cooltechcyber/iam-user-access-review)
+
+## Screenshot evidence
+
+**01-entra-tenant-overview.png**
+
+![01 entra tenant overview](screenshots/01-entra-tenant-overview.png)
+
+**04-entra-daniel-harris-created.png**
+
+![04 entra daniel harris created](screenshots/04-entra-daniel-harris-created.png)
+
+**05-entra-daniel-it-group-membership.png**
+
+![05 entra daniel it group membership](screenshots/05-entra-daniel-it-group-membership.png)
+
+**07-entra-graph-group-verification.png**
+
+![07 entra graph group verification](screenshots/07-entra-graph-group-verification.png)
+
+**10-entra-daniel-finance-properties.png**
+
+![10 entra daniel finance properties](screenshots/10-entra-daniel-finance-properties.png)
+
+**14-entra-mover-graph-group-verification.png**
+
+![14 entra mover graph group verification](screenshots/14-entra-mover-graph-group-verification.png)
+
+**17-entra-leaver-graph-account-verification.png**
+
+![17 entra leaver graph account verification](screenshots/17-entra-leaver-graph-account-verification.png)
+
+**18-entra-leaver-graph-group-verification.png**
+
+![18 entra leaver graph group verification](screenshots/18-entra-leaver-graph-group-verification.png)
